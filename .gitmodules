@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "convey"]
-	path = convey
-	url = https://github.com/ajdamico/convey
 [submodule "SAScii"]
 	path = SAScii
 	url = https://github.com/ajdamico/sascii
+[submodule "convey"]
+	path = convey
+	url = https://github.com/ajdamico/convey
